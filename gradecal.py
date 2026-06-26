@@ -1,2 +1,2 @@
-elif marks >=70:
-returns
+
+ elif marks >= 80:
